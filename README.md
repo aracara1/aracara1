@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aracara1
-- 👀 I’m interested in Rocket sience, enginering, electronics, programing, 3d stuff, codding
+- 👀 I’m interested in Rocket sience, enginering, electronics, programing, 3d stuff, codding, AI
+  
 - 🌱 I’m currently learning school
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me discord aracara1
