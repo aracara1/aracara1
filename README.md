@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @aracara1
+- 👋 Hi, I’m @aracara2
 - 👀 I’m interested in Rocket sience, enginering, electronics, programing, 3d stuff, codding, AI
   
 - 🌱 I’m currently learning school
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me discord aracara1
+- 📫 How to reach me discord aracara2
 - 😄 Pronouns: He/Him/His/Alan turing
 - ⚡ Fun fact: I am human
 
